@@ -12,6 +12,14 @@ En climas mas cálidos se desarrolla más rapido la planta y por lo tanto la pul
 
 Mientras más notas vegetales el varietal es má
 
+## Leyes
+
+Por ley se definen IP (Indicación de Procedencia), IG (Indicación Geográfica) y DOC (Denominación de origen controlada).
+
+IG tiene un orígen mas localizado, mienstas el IP o DOC es un dominio de orígen mas general. Solo es aplicable par auvas vitis vinífera sativa.
+
+DOC queda reservado exclusivamente para los vinos de variedades selectas o bebidas espirituosas de origen vínico, calidad superior, producidos en una región cualitativamente diferenciada y determinada territorio nacional, cuya materia prima y elaboración, crianza y embotellado se realizan en la misma área de producción delimitada.
+
 ## Suelos
 
 ### Maipú
