@@ -50,3 +50,5 @@ Suelo poco profundo (piedra madre muyu cerca), pobre, desgastado. "Apurando" a l
 ### Calingasta
 
 Suelos mas profundos, franco arenosos, mayor altura, mayor insolación.
+
+**Vinos poco frutales, intensos, muy especiados**
