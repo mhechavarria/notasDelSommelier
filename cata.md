@@ -37,8 +37,22 @@
 
 - La cereza es un indicador de clima frío.
 
-## Dégustation
+# Suelos
 
-Voici le Desierto Pampa pinot noire 2007
+Para ver la ozna hay que concentrarse más en la sensación táctil de los taninos.
 
-c'est un vin limpide, brillante avec larmes fluide.
+## Arcilla
+
+Vino redondo, frutal, con buena maduración.
+
+## Limo
+
+Herbáceo, fresco, fruta no tan dominante, buena acidez.
+
+## Arena
+
+Especiado, mas astringente y por lo tanto mas polimerizable, maduración precoz que hace que no tenga tanta fruta y que justamente los taninos sean mas astringentes por el estres de la planta.
+
+## Roca
+
+Poco expresivo, de color intenso y profundo, buen brillo, buena acidez (el mayor de los 4), taninos mas presentes
