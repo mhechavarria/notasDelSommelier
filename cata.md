@@ -56,3 +56,7 @@ Especiado, mas astringente y por lo tanto mas polimerizable, maduración precoz 
 ## Roca
 
 Poco expresivo, de color intenso y profundo, buen brillo, buena acidez (el mayor de los 4), taninos mas presentes
+
+# Gin
+
+- La cevada tiene entrada dulce
