@@ -60,3 +60,7 @@ Poco expresivo, de color intenso y profundo, buen brillo, buena acidez (el mayor
 # Gin
 
 - La cevada tiene entrada dulce
+
+# Whisky
+
+- El trigo da cuerpo y notas cítricas.
